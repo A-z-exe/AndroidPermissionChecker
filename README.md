@@ -166,4 +166,4 @@ MIT License
 **AmirHossein Zarei (A-z-exe)**\
 Security Enthusiast \| Future White‑Hat\
 GitHub: https://github.com/A-z-exe\
-Telegram: https://t.me/A_Z\_exe
+Telegram: https://t.me/A_Z_exe
